@@ -86,3 +86,8 @@ temp/
 
 # Lovable
 .lovable/
+instalação npm
+npm executar compilação
+npx cap sincronização android
+./scripts/build-android.sh
+android/app/build/outputs/apk/release/app-release.apk
